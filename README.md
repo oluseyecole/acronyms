@@ -685,6 +685,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Rx | Remand to Custody | | |
 | S3 | Simple Storage Service | http://aws.amazon.com/s3/ | Amazon's data storage service |
 | SA2020 | Sentencing Act 2020 | https://www.legislation.gov.uk/ukpga/2020/17/contents | |
+| SAM | Self Asset Management | | A Team within the MOJ that's responsible for new and existing software/license assets |
 | SAQ | Self Assessment Questionnaire | | A form done in a the first couple days of prison by new prisoner |
 | SAR | Subject Access Request | | Similar to an FOI, but for yourself. At the MOJ this is typically used by prisoners or civil servants. |
 | SARA | Spousal Assault Risk Assessment | | |
